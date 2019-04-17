@@ -1,3 +1,5 @@
+* **_Don't close browser during installation._**
+ 
 ## Installation packge theme
 Download package theme from your account on [Addon Site](https://addons.prestashop.com/en/agency-products.php) 
 
@@ -17,3 +19,13 @@ Download package theme from your account on [Addon Site](https://addons.prestash
 5. Theme installation finishes. You need [Clear cache](/clear-cache.md) your site 
 
 ## Configure theme
+
+1. Go to **Modules > Module manager**
+2. Find **BC Setting Theme** module, click **Configure**
+
+    ![](/assets/settingtheme.jpg)
+
+3. Click **Import sample Data**
+
+    ![](/assets/importdata.jpg)
+
