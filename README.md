@@ -2,7 +2,7 @@
 
 Full Online Documentation 
 
-**https://arenatheme.gitlab.io/electro-prestashop-documentation/
+**https://arenatheme.gitbooks.io/electro-prestashop-1-7/content/
 **
 
 ###New to Prestashop?
