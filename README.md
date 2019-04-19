@@ -1,4 +1,4 @@
-## Getting started with ELECTRO
+## Getting started with ELECTRO
 
 Full Online Documentation 
 
