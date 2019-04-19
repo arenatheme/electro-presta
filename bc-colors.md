@@ -1,7 +1,8 @@
 #### BC Colors
 This module is config colors theme.
 
-You can change main color theme in **General** tab
+You can change main colors theme in **General** tab
+* Live Preview: Enable/Disable Block **Preview color** on right frontend
 
 ![](/assets/bccolor1.jpg)
 
