@@ -24,4 +24,5 @@
 * [BC Cookie Law](bc-cookie-law.md)
 * [BC Reviews](bc-reviews.md)
 * [BC Ajax Search](bc-ajax-search.md)
+* [Image Slider](image-slider.md)
 
