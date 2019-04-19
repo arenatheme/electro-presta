@@ -16,4 +16,9 @@
 * [BC Setting Theme](bc-setting-theme.md)
 * [BC Ajax Search](bc-ajax-search.md)
 * [BC Product With Categories](bc-product-with-categories.md)
+* [BC Newsletter](bc-newsletter.md)
+* [BC Static Block](bc-static-block.md)
+* [BC Mega Menu](bc-mega-menu.md)
+* [BC Banner Top](bc-banner-top.md)
+* [BC Cookie Law](bc-cookie-law.md)
 
