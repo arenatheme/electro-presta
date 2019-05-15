@@ -3,5 +3,5 @@
 * When you need customize blocks on frontend, it will help you easy find correct module in backend.
 * Then, you can find modules in **Modules > Module manager**
 
-![](/assets/layout1.jpg)
-![](/assets/layout2.jpg)
+![](/example/layout1.jpg)
+![](/example/layout2.jpg)
