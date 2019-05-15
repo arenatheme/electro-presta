@@ -1,8 +1,8 @@
-## Getting started with ELECTRO
+## Getting started with AUTOPART
 
 Full Online Documentation 
 
-**https://arenatheme.gitbooks.io/electro-prestashop-1-7/content/
+**https://arenatheme.gitbooks.io/autopart-documentation/content/
 **
 
 ###New to Prestashop?
