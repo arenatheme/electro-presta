@@ -12,8 +12,8 @@ Configure title and number item display in slider brand
 ![](/assets/bcinsta.jpg)
 
 #### Example configure
-* Instagram Client ID: 
-* Instagram Access Token: 
+* Instagram Client ID: Input your client ID
+* Instagram Access Token: Input your access token
 * Image number: 10
 * Image format: Tiny-Thumbnail (150 X 150)
 * Resize size in pixel: 0
