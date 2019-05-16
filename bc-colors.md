@@ -20,6 +20,6 @@ In **Custom CSS** tab, you can input your custom css.
 
 ![](/assets/bccolor4.jpg)
 
-**Note:** if you have skill css, you can add your custom css in file: /themes/electro/assets/css/custom.css
+**Note:** if you have skill css, you can add your custom css in file: /themes/theme-name/assets/css/custom.css
 
 
