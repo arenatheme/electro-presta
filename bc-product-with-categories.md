@@ -33,25 +33,13 @@ This module is show product of categories on frontend. You can use many product 
 ![](/assets/bcprocat3.jpg)
 
 #### Example configure
-###### List Content Category
 * List Content Category: select display 3 categories
-* Demo content:
-```
-<div class="tab-item-content">
-<p class="title">THE BEST AUTO PARTS</p>
-<p class="subtitle">IN PREMIUMS</p>
-<p class="description">Quisque quam diam, posuere eu metus non</p>
-<a href="#" class="btn-primary"> Shop More</a></div>
-<div class="tab-item-background" style="background-image: url('https://arenatheme.gitlab.io/demo-image/autopart/background-tab.png');"></div>
-```
-
-###### CONFIGURE PRODUCT WITH CATEGORIES
-* Title Product: All Cars Must Have
+* Title Product:  LATEST PRODUCTS
 * Hook: displayHome
 * Template: standard
 * Custom Template: 
-* Number product: 12
-* Number product display: 2
+* Number product: 9
+* Number product display: 3
 * Image size: home_default
 * Use Slider: Yes
 * Active: Yes

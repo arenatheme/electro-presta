@@ -27,19 +27,19 @@ This module is filter and show product blocks on frontend. You can use many prod
 ![](/assets/bcfilter2.jpg)
 
 #### Example configure
-* Title New Product: New Products
+* Title New Product: NEW PRODUCTS
 * New Product: Yes
-* Title Feature Product: Trending Products
+* Title Feature Product: TRENDING PRODUCTS
 * Feature Product: Yes
-* Title Bestseller Product: BestSeller Products
-* Bestseller: Yes
-* Title Special Product: Special Products
+* Title Bestseller Product: BestSeller Product
+* Bestseller: No
+* Title Special Product: SPECIAL PRODUCTS
 * Special Product: Yes
 * Hook: displayTopHome
 * Template: tab
 * Custom Template:
-* Number product: 10
-* Number product display: 5
+* Number product: 9
+* Number product display: 3
 * Image size: home_default
 * Use Slider: Yes
 * Active: Yes
